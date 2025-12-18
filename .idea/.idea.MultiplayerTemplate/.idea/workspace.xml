@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef30b907-f1f8-4fd8-9101-59116cab7772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate/MultiplayerTemplate.Build.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate/MultiplayerTemplate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate/MultiplayerTemplate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate/MyActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplate/MyActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/MultiplayerTemplateEditor.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiplayerTemplate.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplayerTemplate.uproject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35272l9CVee8YuQEXhKt5f1IdjO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef30b907-f1f8-4fd8-9101-59116cab7772" name="Changes" comment="" />
+      <created>1762296126916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762296126916</updated>
+      <workItem from="1762296126917" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
